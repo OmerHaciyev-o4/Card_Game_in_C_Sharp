@@ -1,0 +1,16 @@
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\Card Game.exe
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\Card Game.deps.json
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\Card Game.runtimeconfig.json
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\Card Game.runtimeconfig.dev.json
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\Card Game.dll
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\ref\Card Game.dll
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\bin\Debug\net5.0\Card Game.pdb
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.csprojAssemblyReference.cache
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.AssemblyInfoInputs.cache
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.AssemblyInfo.cs
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.csproj.CoreCompileInputs.cache
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.dll
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\ref\Card Game.dll
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.pdb
+C:\Users\Omer Haciyev\source\repos\Card Game\Card Game\obj\Debug\net5.0\Card Game.genruntimeconfig.cache
